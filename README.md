@@ -1,3 +1,21 @@
+<h1 align="center">Hi 👋, I'm Suzel</h1>
+- 🔭 My Project Name **Shopping-Card**
+
+
+<p align="left">
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+
+<div>
+<img src="https://user-images.githubusercontent.com/64069582/194719656-5bcec4f3-5936-43cc-9d5e-c438f7e108c5.png" width="250" height="400"/>
+<img src="https://user-images.githubusercontent.com/64069582/194719726-fd748679-ff70-467b-baf5-0005427ab274.png" width="250" height="400"/>
+</div>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
